@@ -1,6 +1,6 @@
 # Introduction
 
-TingTrace is a popular platform for tracking decentralized exchange (DEX) trading activity and analyzing cryptocurrency markets.
+Ting Trace is a popular platform for tracking decentralized exchange (DEX) trading activity and analyzing cryptocurrency markets.
 
 TingTrace is a platform designed to help traders, investors, and crypto enthusiasts manage their portfolios and track their performance in the cryptocurrency market.
 
