@@ -6,8 +6,9 @@
 | Chain            | Status   |
 | ---------------- | -------- |
 | Ethereum         | Live     |
-| BSC              | Live     |
 | Blast            | Live     |
+| Base             | Live     |
+| BSC              | Upcoming |
 | TON              | Upcoming |
 | Sei              | Upcoming |
 | Scroll           | Upcoming |
@@ -24,7 +25,6 @@
 | Mantle           | Upcoming |
 | ZetaChain        | Upcoming |
 | Manta            | Upcoming |
-| Base             | Upcoming |
 | ICP              | Upcoming |
 | Injective        | Upcoming |
 | Oasis Sapphire   | Upcoming |

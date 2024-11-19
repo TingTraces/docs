@@ -17,7 +17,6 @@
 * [Tokenomics](tokenomics.md)
 * [Social Channel](social-channel.md)
 * [Roadmap](roadmap.md)
-* [Contact Us](contact-us.md)
 
 ## DISCOVER DEX MARKET
 
@@ -40,3 +39,8 @@
 * [Advanced Analytics](alpha-wallet-analysis/advanced-analytics.md)
 * [30 days Wallets Analysis](alpha-wallet-analysis/30-days-wallets-analysis.md)
 * [Wallet Discovery](alpha-wallet-analysis/wallet-discovery.md)
+
+## PRIVACY
+
+* [Disclaimer](privacy/disclaimer.md)
+* [Contact Us](privacy/contact-us.md)
