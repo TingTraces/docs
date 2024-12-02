@@ -24,7 +24,7 @@
 
 * [Token Listing](listing/token-listing.md)
 * [DEX Listing](listing/dex-listing.md)
-* [Chin Listing](listing/chin-listing.md)
+* [Chain Listing](listing/chain-listing.md)
 
 ## PRIVACY
 
